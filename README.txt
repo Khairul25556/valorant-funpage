@@ -1,2 +1,0 @@
-It's a landing page. Basically I inspired from real Valorant website. It's a gaming website. So I tried to make something like the original one. I also tried to make this responsive but not completely. 
-Visit the valorant-fun page: https://khairul25556.github.io/valorant-funpage/
